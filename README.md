@@ -100,3 +100,8 @@ NumPy is commonly used alongside libraries such as **Pandas, Matplotlib, and Sci
 * Add statistical analysis exercises.
 * Integrate NumPy with Pandas and Matplotlib.
 * Add Machine Learning preprocessing examples.
+
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
